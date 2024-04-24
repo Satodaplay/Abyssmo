@@ -1,6 +1,6 @@
 # Abyssmo
 
-EpicDiscordSagaBot es un marco básico para bots de Discord, diseñado para gestionar personajes y combates en servidores. Personalizable y extensible para adaptarse a cualquier comunidad.
+Abyssmo es un marco básico para bots de Discord, diseñado para gestionar personajes y combates en servidores. Personalizable y extensible para adaptarse a cualquier comunidad.
 
 ## Características
 
@@ -21,8 +21,8 @@ EpicDiscordSagaBot es un marco básico para bots de Discord, diseñado para gest
 Primero, clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/EpicDiscordSagaBot.git
-cd EpicDiscordSagaBot
+git clone https://github.com/tu-usuario/Abyssmo.git
+cd Abyssmo
 ```
 
 Instala las dependencias necesarias:
